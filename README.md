@@ -11,13 +11,13 @@ Stop all servers (FST + MGM).
 
 For safety, backup all `/var/eos` folders.
 
-Change configuration (see [#configuration changes](#configuration changes))
+Change configuration (see [configuration changes](#configuration-changes))
 
-Change eos repos (see [#yum.repo file](#yum.repo file))
+Change eos repos (see [yum.repo file](#yumrepo-file))
 
-Run MGM upgrade (see [#Upgrade MGMs](#Upgrade MGMs))
+Run MGM upgrade (see [Upgrade MGMs](#upgrade-mgms))
 
-Run FST upgrade (see [#Upgrade FSTs](#Upgrade FSTs))
+Run FST upgrade (see [Upgrade FSTs](#upgrade-fsts))
 
 Enjoy (or cry ?)
 
